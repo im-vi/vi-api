@@ -1,0 +1,82 @@
+[
+    {
+        "id": 1,
+        "name": "1. Posiedzenie Sejmu RP w dniach 13, 14, 21, 22, 28 i 29 listopada oraz 6, 7, 11, 12, 19, 20 i 21 grudnia 2023 r.",
+        "started": true
+    },
+    {
+        "id": 2,
+        "name": "2. Posiedzenie Sejmu RP w dniach 16 i 17 stycznia 2024 r.",
+        "started": true
+    },
+    {
+        "id": 3,
+        "name": "3. Posiedzenie Sejmu RP w dniu 18 stycznia 2024 r.",
+        "started": true
+    },
+    {
+        "id": 4,
+        "name": "4. Posiedzenie Sejmu RP w dniach 25 i 26 stycznia 2024 r.",
+        "started": true
+    },
+    {
+        "id": 5,
+        "name": "5. Posiedzenie Sejmu RP w dniach 7, 8 i 9 lutego 2024 r.",
+        "started": true
+    },
+    {
+        "id": 6,
+        "name": "6. Posiedzenie Sejmu RP w dniach 21 i 22 lutego 2024 r.",
+        "started": true
+    },
+    {
+        "id": 7,
+        "name": "7. Posiedzenie Sejmu RP w dniach 6, 7 i 8 marca 2024 r.",
+        "started": true
+    },
+    {
+        "id": 8,
+        "name": "8. Posiedzenie Sejmu RP w dniach 20 i 21 marca 2024 r.",
+        "started": false
+    },
+    {
+        "id": 9,
+        "name": "Planowane Posiedzenie Sejmu RP w dniach 10, 11 i 12 kwietnia 2024 r.",
+        "started": false
+    },
+    {
+        "id": 10,
+        "name": "Planowane Posiedzenie Sejmu RP w dniach 24, 25 i 26 kwietnia 2024 r.",
+        "started": false
+    },
+    {
+        "id": 11,
+        "name": "Planowane Posiedzenie Sejmu RP w dniach 8, 9 i 10 maja 2024 r.",
+        "started": false
+    },
+    {
+        "id": 12,
+        "name": "Planowane Posiedzenie Sejmu RP w dniach 21, 22 i 23 maja 2024 r.",
+        "started": false
+    },
+    {
+        "id": 13,
+        "name": "Planowane Posiedzenie Sejmu RP w dniach 12, 13 i 14 czerwca 2024 r.",
+        "started": false
+    },
+    {
+        "id": 14,
+        "name": "Planowane Posiedzenie Sejmu RP w dniach 26, 27 i 28 czerwca 2024 r.",
+        "started": false
+    },
+    {
+        "id": 15,
+        "name": "Planowane Posiedzenie Sejmu RP w dniach 10, 11 i 12 lipca 2024 r.",
+        "started": false
+    },
+    {
+        "id": 16,
+        "name": "Planowane Posiedzenie Sejmu RP w dniach 23, 24, 25 i 26 lipca 2024 r.",
+        "started": false
+    }
+]
