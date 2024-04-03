@@ -78,5 +78,20 @@
         "id": 16,
         "name": "Planowane Posiedzenie Sejmu RP w dniach 23, 24, 25 i 26 lipca 2024 r.",
         "started": false
+    },
+    {
+        "id": 17,
+        "name": "Planowane Posiedzenie Sejmu RP w dniach 11, 12 i 13 września 2024 r.",
+        "started": false
+    },
+    {
+        "id": 18,
+        "name": "Planowane Posiedzenie Sejmu RP w dniach 25, 26 i 27 września 2024 r.",
+        "started": false
+    },
+    {
+        "id": 19,
+        "name": "Planowane Posiedzenie Sejmu RP w dniach 9, 10 i 11 października 2024 r.",
+        "started": false
     }
 ]
