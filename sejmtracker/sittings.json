@@ -81,17 +81,42 @@
     },
     {
         "id": 17,
-        "name": "Planowane Posiedzenie Sejmu RP w dniach 11, 12 i 13 września 2024 r.",
-        "started": false
+        "name": "17. Posiedzenie Sejmu RP w dniach 11, 12 i 13 września 2024 r.",
+        "started": true
     },
     {
         "id": 18,
-        "name": "Planowane Posiedzenie Sejmu RP w dniach 25, 26 i 27 września 2024 r.",
-        "started": false
+        "name": "18. Posiedzenie Sejmu RP w dniach 25, 26 i 27 września 2024 r.",
+        "started": true
     },
     {
         "id": 19,
-        "name": "Planowane Posiedzenie Sejmu RP w dniach 9, 10 i 11 października 2024 r.",
-        "started": false
+        "name": "19. Posiedzenie Sejmu RP w dniach 9, 10 i 11 października 2024 r.",
+        "started": true
+    },
+    {
+        "id": 20,
+        "name": "20. Posiedzenie Sejmu RP w dniach 16, 17 i 18 października 2024 r.",
+        "started": true
+    },
+    {
+        "id": 21,
+        "name": "21. Posiedzenie Sejmu RP w dniach 6, 7 i 8 listopada 2024 r.",
+        "started": true
+    },
+    {
+        "id": 22,
+        "name": "22. Posiedzenie Sejmu RP w dniach 19, 20 i 21 listopada 2024 r.",
+        "started": true
+    },
+    {
+        "id": 23,
+        "name": "23. Posiedzenie Sejmu RP w dniach 4, 5 i 6 grudnia 2024 r.",
+        "started": true
+    },
+    {
+        "id": 24,
+        "name": "24. Posiedzenie Sejmu RP w dniach 18, 19 i 20 grudnia 2024 r.",
+        "started": true
     }
 ]
